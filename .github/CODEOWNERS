@@ -51,6 +51,11 @@ CONTRIBUTING.md @vacs-project/maintainers
 /dataset/LA/ @vacs-project/dataset-maintainers-adr
 /dataset/LB/ @vacs-project/dataset-maintainers-lb
 /dataset/LD/ @vacs-project/dataset-maintainers-adr
+/dataset/LFBB/ @vacs-project/dataset-maintainers-lf
+/dataset/LFEE/ @vacs-project/dataset-maintainers-lf
+/dataset/LFFF/ @vacs-project/dataset-maintainers-lf
+/dataset/LFMM/ @vacs-project/dataset-maintainers-lf
+/dataset/LFRR/ @vacs-project/dataset-maintainers-lf
 /dataset/LH/ @vacs-project/dataset-maintainers-lh
 /dataset/LI/ @vacs-project/dataset-maintainers-li
 /dataset/LJ/ @vacs-project/dataset-maintainers-adr
