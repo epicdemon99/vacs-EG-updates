@@ -8,11 +8,11 @@
         "rows": 4,
         "keys": [
           {
-            "label": ["WES"],
+            "label": ["SC","WES"],
             "station_id": "SCO_W_CTR"
           },
           {
-            "label": ["RAT"],
+            "label": ["SC","RAT"],
             "station_id": "SCO_RAT_CTR"
           },
           {
@@ -22,11 +22,11 @@
             "label": [""]
           },
           {
-            "label": ["SWB"],
+            "label": ["SC","SWB"],
             "station_id": "SCO_SWB_CTR"
           },
           {
-            "label": ["BDS"],
+            "label": ["SC","BDS"],
             "station_id": "SCO_BDS_CTR"
           },
           {
@@ -36,11 +36,11 @@
             "label": [""]
           },
           {
-            "label": ["NOR"],
+            "label": ["SC","NOR"],
             "station_id": "SCO_N_CTR"
           },
           {
-            "label": ["STH"],
+            "label": ["SC","STH"],
             "station_id": "SCO_S_CTR"
           },
           {
@@ -53,7 +53,7 @@
             "label": [""]
           },
           {
-            "label": ["EAS"],
+            "label": ["SC","EAS"],
             "station_id": "SCO_E_CTR"
           },
           {
@@ -72,7 +72,7 @@
             "label": [""]
           },
           {
-            "label": ["ANT"],
+            "label": ["SC","ANT"],
             "station_id": "SCL_ANT_CTR"
           },
           {
@@ -85,7 +85,7 @@
             "label": [""]
           },
           {
-            "label": ["GAL"],
+            "label": ["SC","GAL"],
             "station_id": "SCL_GAL_CTR"
           },
           {
@@ -95,11 +95,11 @@
             "label": [""]
           },
           {
-            "label": ["TAY"],
+            "label": ["SC","TAY"],
             "station_id": "SCL_TAY_CTR"
           },
           {
-            "label": ["TLA"],
+            "label": ["SC","TLA"],
             "station_id": "SCL_TLA_CTR"
           },
           {
@@ -131,13 +131,15 @@
             "label": [""]
           },
           {
-            "label": ["EGGX"]
+            "label": ["EGGX"],
+            "station_id": "EGGX_FSS"
           },
           {
             "label": [""]
           },
           {
-            "label": ["EISN"]
+            "label": ["EISN","245-355"],
+            "station_id": "EISN_E_CTR"
           },
           {
             "label": [""]
@@ -155,7 +157,12 @@
             "label": [""]
           },
           {
-            "label": [""]
+            "label": ["EISN","F355+"],
+            "station_id": "EISN_CTR"
+          },
+          {
+            "label": ["EIDW","F245-"],
+            "station_id": "EIDW_LN_CTR"
           },
           {
             "label": [""]
@@ -188,13 +195,32 @@
             "label": [""]
           },
           {
+            "label": ["LON","LAK"],
+            "station_id": "LON_NW_CTR"
+          },
+          {
+            "label": ["PC","WAL"],
+            "station_id": "MAN_W_CTR"
+          },
+          {
+            "label": [""]
+          },
+          {
             "label": [""]
           },
           {
             "label": [""]
           },
           {
-            "label": ["LON"]
+            "label": [""]
+          },
+          {
+            "label": ["LON","NSEA"],
+            "station_id": "LON_NE_CTR"
+          }, 
+          {
+            "label": ["PC","NOR"],
+            "station_id": "MAN_NE_CTR"
           },
           {
             "label": [""]
@@ -212,9 +238,6 @@
             "label": [""]
           }, 
           {
-            "label": ["LON"]
-          },
-          {
             "label": [""]
           },
           {
@@ -227,46 +250,38 @@
             "label": [""]
           },
           {
-            "label": [""]
-          },
-          {
-            "label": [""]
-          },
-          {
-            "label": [""]
-          },
-          {
-            "label": [""]
-          },
-          {
-            "label": [""]
-          },
-          {
-            "label": [""]
-          },
-          {
-            "label": [""]
-          },
-          {
-            "label": [""]
-          },
-          {
-            "label": ["ENSV","RIGVU+"]
-          },
-          {
-            "label": ["ENSV","KLONN-"]
-          },
-          {
-            "label": ["EKDK","F365+"]
-          },
-          {
-            "label": ["EKDK","F365-"]
-          },
-          {
-            "label": ["EDYY"]
+            "label": ["EDYY","Jv Hi"],
+            "station_id": "EDYY_JL_CTR"
           }, 
           {
-            "label": ["AMS"]
+            "label": ["EDYY","Jv Low"],
+            "station_id": "EDYY_JH_CTR"
+          }, 
+          {
+            "label": [""]
+          },
+          {
+            "label": ["ENSV"],
+            "station_id": "ENSV_W_CTR"
+          },
+          {
+            "label": ["EKDK","F365+"],
+            "station_id": "EKDK_UN_CTR"
+          },
+          {
+            "label": ["EKDK","F365-"],
+            "station_id": "EKDK_N_CTR"
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": ["EDYY","Delta"],
+            "station_id": "EDYY_D_CTR"
+          }, 
+          {
+            "label": ["AMS"],
+            "station_id": "EHAA_W_CTR"
           }
         ]
       }
