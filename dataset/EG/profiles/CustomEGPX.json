@@ -8,11 +8,11 @@
         "rows": 4,
         "keys": [
           {
-            "label": ["SC","WES"],
+            "label": ["WES"],
             "station_id": "SCO_W_CTR"
           },
           {
-            "label": ["SC","RAT"],
+            "label": ["RAT"],
             "station_id": "SCO_RAT_CTR"
           },
           {
@@ -22,11 +22,11 @@
             "label": [""]
           },
           {
-            "label": ["SC","SWB"],
+            "label": ["SWB"],
             "station_id": "SCO_SWB_CTR"
           },
           {
-            "label": ["SC","BDS"],
+            "label": ["BDS"],
             "station_id": "SCO_BDS_CTR"
           },
           {
@@ -36,11 +36,11 @@
             "label": [""]
           },
           {
-            "label": ["SC","NOR"],
+            "label": ["NOR"],
             "station_id": "SCO_N_CTR"
           },
           {
-            "label": ["SC","STH"],
+            "label": ["STH"],
             "station_id": "SCO_S_CTR"
           },
           {
@@ -53,7 +53,7 @@
             "label": [""]
           },
           {
-            "label": ["SC","EAS"],
+            "label": ["EAS"],
             "station_id": "SCO_E_CTR"
           },
           {
@@ -72,7 +72,7 @@
             "label": [""]
           },
           {
-            "label": ["SC","ANT"],
+            "label": ["ANT"],
             "station_id": "SCL_ANT_CTR"
           },
           {
@@ -85,7 +85,7 @@
             "label": [""]
           },
           {
-            "label": ["SC","GAL"],
+            "label": ["GAL"],
             "station_id": "SCL_GAL_CTR"
           },
           {
@@ -95,11 +95,11 @@
             "label": [""]
           },
           {
-            "label": ["SC","TAY"],
+            "label": ["TAY"],
             "station_id": "SCL_TAY_CTR"
           },
           {
-            "label": ["SC","TLA"],
+            "label": ["TLA"],
             "station_id": "SCL_TLA_CTR"
           },
           {
