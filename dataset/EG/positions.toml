@@ -2361,21 +2361,21 @@ id = "LTC_SE_CTR"
 prefixes = ["LTC"]
 frequency = "120.530"
 facility_type = "CTR"
-profile_id = "TCS"
+profile_id = "EG-TCS"
 
 [[positions]]
 id = "LTC_SW_CTR"
 prefixes = ["LTC"]
 frequency = "133.180"
 facility_type = "CTR"
-profile_id = "TCS"
+profile_id = "EG-TCS"
 
 [[positions]]
 id = "LTC_S_CTR"
 prefixes = ["LTC"]
 frequency = "134.125"
 facility_type = "CTR"
-profile_id = "TCS"
+profile_id = "EG-TCS"
 
 #######################
 # Scottish Area
