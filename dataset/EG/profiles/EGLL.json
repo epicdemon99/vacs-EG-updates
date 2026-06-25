@@ -47,11 +47,11 @@
             "label": []
           },
           {
-            "label": ["AIR", "NOR"],
+            "label": ["AIR", "N"],
             "station_id": "EGLL_N_TWR"
           },
           {
-            "label": ["AIR", "STH"],
+            "label": ["AIR", "S"],
             "station_id": "EGLL_S_TWR"
           },
           {
@@ -66,11 +66,11 @@
             "station_id": "EGLL_F_APP"
           },
           {
-            "label": ["INT", "NOR"],
+            "label": ["INT", "N"],
             "station_id": "EGLL_N_APP"
           },
           {
-            "label": ["INT", "STH"],
+            "label": ["INT", "S"],
             "station_id": "EGLL_S_APP"
           },
           {
@@ -176,11 +176,11 @@
             "label": []
           },
           {
-            "label": ["AIR", "NOR"],
+            "label": ["AIR", "N"],
             "station_id": "EGLL_N_TWR"
           },
           {
-            "label": ["AIR", "STH"],
+            "label": ["AIR", "S"],
             "station_id": "EGLL_S_TWR"
           },
           {
@@ -201,11 +201,11 @@
             "station_id": "EGLL_F_APP"
           },
           {
-            "label": ["INT", "NOR"],
+            "label": ["INT", "N"],
             "station_id": "EGLL_N_APP"
           },
           {
-            "label": ["INT", "STH"],
+            "label": ["INT", "S"],
             "station_id": "EGLL_S_APP"
           },
           {

@@ -66,11 +66,11 @@
             "station_id": "EGCC_F_APP"
           },
           {
-            "label": ["INT", "NOR"],
+            "label": ["INT", "N"],
             "station_id": "EGCC_N_APP"
           },
           {
-            "label": ["INT", "STH"],
+            "label": ["INT", "S"],
             "station_id": "EGCC_S_APP"
           },
           {
