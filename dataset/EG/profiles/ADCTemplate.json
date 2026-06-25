@@ -1,0 +1,202 @@
+{
+  "id": "ADCTemplate",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "ICAO",
+      "page": {
+        "rows": 5,
+        "keys": [
+          {
+            "label": ["GMP"],
+            "station_id": ""
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["GMP", "AST"],
+            "station_id": ""
+          },
+          {
+            "label": ["PLN"],
+            "station_id": ""
+          },
+          {
+            "label": ["GMC"],
+            "station_id": ""
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": ["AIR"],
+            "station_id": ""
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["FIN"],
+            "station_id": ""
+          },
+          {
+            "label": ["INT"],
+            "station_id": ""
+          },          
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": [],
+            "station_id": ""
+          },
+          {
+            "label": ["Area1"],
+            "station_id": ""
+          },
+          {
+            "label": ["Area2"],
+            "station_id": ""
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["ADJ","APP1"],
+            "station_id": ""
+          },
+          {
+            "label": ["ADJ","APP3"],
+            "station_id": ""
+          },
+          {
+            "label": ["Area3"],
+            "station_id": ""
+          },
+          {
+            "label": ["Area4"],
+            "station_id": ""
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["ADJ","APP2"],
+            "station_id": ""
+          },
+          {
+            "label": ["ADJ", "APP4"],
+            "station_id": ""
+          }
+        ]
+      }
+    },
+    {
+      "label": ["SUP", "Flow"],
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["UK", "FMP"],
+            "station_id": "UK_FMP"
+          },
+          {
+            "label": ["LTC", "FMP"],
+            "station_id": "LTC_FMP"
+          },
+          {
+            "label": ["UK", "FMP", "2"],
+            "station_id": "UK_A_FMP"
+          },
+          {
+            "label": ["UK", "FMP", "3"],
+            "station_id": "UK_B_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["LAC", "GS"],
+            "station_id": "LON_GS_CTR"
+          },
+          {
+            "label": ["LTC", "GS"],
+            "station_id": "LTC_GS_CTR"
+          },
+          {
+            "label": ["MAN", "GS"],
+            "station_id": "MAN_GS_CTR"
+          },
+          {
+            "label": ["MAN", "FMP"],
+            "station_id": "MAN_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["SCL", "FMP"],
+            "station_id": "SCL_FMP"
+          },
+          {
+            "label": ["ScAC", "GS"],
+            "station_id": "SCO_GS_CTR"
+          },
+          {
+            "label": ["SCL", "GS"],
+            "station_id": "SCL_GS_CTR"
+          }
+        ]
+      }
+    }
+  ]
+}
