@@ -254,8 +254,8 @@
             "station_id": "EGTK_APP"
           },
           {
-            "label": [""],
-            "station_id": ""
+            "label": ["TC APC"],
+            "station_id": "EGTC_A_APP"
           }
         ]
       }
