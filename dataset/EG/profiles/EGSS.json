@@ -1,15 +1,15 @@
 {
-  "id": "ADCTemplate",
+  "id": "EGSS",
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "ICAO",
+      "label": "EGSS",
       "page": {
         "rows": 5,
         "keys": [
           {
             "label": ["GMP"],
-            "station_id": ""
+            "station_id": "EGSS_DEL"
           },
           {
             "label": []
@@ -19,22 +19,22 @@
           },
           {
             "label": ["GMP", "AST"],
-            "station_id": ""
+            "station_id": "EGSS_A_DEL"
           },
           {
             "label": ["PLN"],
-            "station_id": ""
+            "station_id": "EGSS_P_GND"
           },
           {
             "label": ["GMC"],
-            "station_id": ""
+            "station_id": "EGSS_GND"
           },
           {
             "label": [""]
           },
           {
             "label": ["AIR"],
-            "station_id": ""
+            "station_id": "EGSS_TWR"
           },
           {
             "label": []
@@ -62,11 +62,11 @@
           },
           {
             "label": ["FIN"],
-            "station_id": ""
+            "station_id": "EGSS_F_APP"
           },
           {
             "label": ["INT"],
-            "station_id": ""
+            "station_id": "EGSS_APP"
           },          
           {
             "label": []
@@ -91,42 +91,42 @@
             "station_id": ""
           },
           {
-            "label": ["Area1"],
-            "station_id": ""
+            "label": ["TC","NW"],
+            "station_id": "LTC_NW_CTR"
           },
           {
-            "label": ["Area2"],
-            "station_id": ""
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["ADJ","APP1"],
-            "station_id": ""
-          },
-          {
-            "label": ["ADJ","APP3"],
-            "station_id": ""
-          },
-          {
-            "label": ["Area3"],
-            "station_id": ""
-          },
-          {
-            "label": ["Area4"],
+            "label": [""],
             "station_id": ""
           },
           {
             "label": []
           },
           {
-            "label": ["ADJ","APP2"],
+            "label": ["GW","INT"],
+            "station_id": "EGGW_APP"
+          },
+          {
+            "label": ["LL","INT"],
+            "station_id": "EGLL_N_APP"
+          },
+          {
+            "label": ["TC","NE"],
+            "station_id": "LTC_NE_CTR"
+          },
+          {
+            "label": [""],
             "station_id": ""
           },
           {
-            "label": ["ADJ", "APP4"],
-            "station_id": ""
+            "label": []
+          },
+          {
+            "label": ["SC","RAD"],
+            "station_id": "EGSC_APP"
+          },
+          {
+            "label": ["MC", "DIR"],
+            "station_id": "EGMC_APP"
           }
         ]
       }
