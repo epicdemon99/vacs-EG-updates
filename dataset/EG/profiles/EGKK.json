@@ -5,7 +5,7 @@
     {
       "label": "EGKK",
       "page": {
-        "rows": 4,
+        "rows": 5,
         "keys": [
           {
             "label": ["GMP"],
@@ -15,12 +15,7 @@
             "label": []
           },
           {
-            "label": ["GMC", "North"],
-            "station_id": "EGKK_N_GND"
-          },
-          {
-            "label": ["GMC", "South"],
-            "station_id": "EGKK_S_GND"
+            "label": []
           },
           {
             "label": ["GMP", "AST"],
@@ -31,8 +26,22 @@
             "station_id": "EGKK_P_GND"
           },
           {
+            "label": ["GMC", "NOR"],
+            "station_id": "EGKK_N_GND"
+          },
+          {
+            "label": ["GMC", "STH"],
+            "station_id": "EGKK_S_GND"
+          },
+          {
+            "label": []
+          },
+          {
             "label": ["AIR"],
             "station_id": "EGKK_TWR"
+          },
+          {
+            "label": []
           },
           {
             "label": []
@@ -54,19 +63,13 @@
             "label": []
           },
           {
-            "label": ["INT"],
-            "station_id": "EGKK_APP"
-          },
-          {
             "label": ["FIN"],
             "station_id": "EGKK_F_APP"
           },
           {
-            "label": []
-          },
-          {
-            "label": []
-          },
+            "label": ["INT"],
+            "station_id": "EGKK_APP"
+          },          
           {
             "label": []
           },
@@ -98,6 +101,9 @@
             "station_id": "LTC_SW_CTR"
           },
           {
+            "label": []
+          },
+          {
             "label": ["LL", "INT"],
             "station_id": "EGLL_S_APP"
           },
@@ -112,6 +118,9 @@
           {
             "label": ["TC", "SE"],
             "station_id": "LTC_SE_CTR"
+          },
+          {
+            "label": []
           },
           {
             "label": ["TC", "TMS"],
