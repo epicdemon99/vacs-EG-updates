@@ -9,144 +9,181 @@
         "keys": [
           {
             "label": ["TC MIDS", "COWLY"],
+            "color": "azure",
             "station_id": "LTC_MC_CTR"
           },
           {
             "label": ["TC", "NW"],
+            "color": "azure",
             "station_id": "LTC_NW_CTR"
           },
           {
             "label": ["TC", "SW"],
+            "color": "azure",
             "station_id": "LTC_SW_CTR"
           },
           {
             "label": ["AC W", "S23"],
+            "color": "azure",
             "station_id": "LON_23_CTR"
           },
           {
             "label": ["LMS"],
+            "color": "azure",
             "station_id": "LON_SN_CTR"
           },
           {
             "label": ["SOL", "APP"],
+            "color": "azure",
             "station_id": "SOLENT_APP"
           },
           {
             "label": ["TC MIDS", "WELIN"],
+            "color": "azure",
             "station_id": "LTC_MW_CTR"
           },
           {
             "label": ["TC NE", "LAM"],
+            "color": "azure",
             "station_id": "LTC_N2_CTR"
           },
           {
             "label": ["TC", "SE"],
+            "color": "azure",
             "station_id": "LTC_SE_CTR"
           },
           {
             "label": ["WOR", "Hurn"],
+            "color": "azure",
             "station_id": "LON_HW_CTR"
           },
           {
             "label": ["DVR", "S15"],
+            "color": "azure",
             "station_id": "LON_DK_CTR"
           },
           {
             "label": ["HI", "APP"],
+            "color": "azure",
             "station_id": "EGHI_APP"
           },
           {
             "label": ["TC E", "SABER"],
+            "color": "azure",
             "station_id": "LTC_ES_CTR"
           },
           {
             "label": ["TC NE", "LOREL"],
+            "color": "azure",
             "station_id": "LTC_NL_CTR"
           },
           {
             "label": ["TC NE", "DEPS"],
+            "color": "azure",
             "station_id": "LTC_NE_CTR"
           },
           {
             "label": ["WOR", "SFD S18"],
+            "color": "azure",
             "station_id": "EGKB_A_APP"
           },
           {
             "label": ["DVR", "LYD"],
+            "color": "azure",
             "station_id": "LON_DL_CTR"
           },
           {
             "label": ["LF", "APP"],
+            "color": "azure",
             "station_id": "EGLF_APP"
           },
           {
             "label": ["TC E", "JACKO"],
+            "color": "azure",
             "station_id": "LTC_EJ_CTR"
           },
           {
             "label": ["TC", "LL"],
+            "color": "azure",
             "station_id": "EGLL_S_APP"
           },
           {
             "label": ["TC", "TMS"],
+            "color": "azure",
             "station_id": "THAMES_APP"
           },
           {
             "label": ["MC", "APP"],
+            "color": "azure",
             "station_id": "EGMC_APP"
           },
           {
             "label": ["KA", "APP"],
+            "color": "azure",
             "station_id": "EGKA_APP"
           },
           {
             "label": ["LF", "LARS"],
+            "color": "azure",
             "station_id": "EGLF_L_APP"
           },
           {
             "label": ["LON", "FISO"],
+            "color": "azure",
             "station_id": "EGTT_I_CTR"
           },
           {
             "label": ["TC", "KK"],
+            "color": "azure",
             "station_id": "EGKK_APP"
           },
           {
             "label": ["TC", "SVFR"],
+            "color": "azure",
             "station_id": "EG-CTR-TC_SVFR"
           },
           {
             "label": ["MC", "LARS"],
+            "color": "azure",
             "station_id": "EGMC_L_APP"
           },
           {
             "label": ["MD", "APP"],
+            "color": "azure",
             "station_id": "EGMD_A_APP"
           },
           {
             "label": ["PAR", "TN"],
+            "color": "azure",
             "station_id": "PAR_TN_CTR"
           },
           {
-            "label": ""
+            "label": "",
+            "color": "azure"
           },
           {
             "label": ["KB", "APP"],
+            "color": "azure",
             "station_id": "EGKB_A_APP"
           },
           {
-            "label": ""
-          },
-          {
             "label": ["BRU", "W"],
+            "color": "azure",
             "station_id": "EBBU_W_CTR"
           },
           {
             "label": ["EBOS", "APP"],
+            "color": "azure",
             "station_id": "EBOS_APP"
           },
           {
+            "label": ["LFQQ", "APP"],
+            "color": "azure",
+            "station_id": "LFQQ_QE_APP"
+          },
+          {
             "label": ["PAR", "TB"],
+            "color": "azure",
             "station_id": "PAR_TB_CTR"
           }
         ]
@@ -159,100 +196,125 @@
         "keys": [
           {
             "label": ["DTY", "W"],
+            "color": "azure",
             "station_id": "LON_MW_CTR"
           },
           {
             "label": ["DTY", "LOW"],
+            "color": "azure",
             "station_id": "LON_ML_CTR"
           },
           {
             "label": ["AC W","BHD"],
+            "color": "azure",
             "station_id": "LON_WH_CTR"
           },
           {
             "label": ["TC","GW"],
+            "color": "azure",
             "station_id": "EGGW_APP"
           },
           {
             "label": ["TC", "LL", "INT N"],
+            "color": "azure",
             "station_id": "EGLL_N_APP"
           },
           {
             "label": ["HH", "APP"],
+            "color": "azure",
             "station_id": "EGHH_APP"
           },
           {
             "label": ["DTY", "E"],
+            "color": "azure",
             "station_id": "LON_ME_CTR"
           },
           {
-            "label": ""
+            "label": "",
+            "color": "azure"
           },
           {
             "label": ["TC E","DAGGA"],
+            "color": "azure",
             "station_id": "LTC_ED_CTR"
           },
           {
             "label": ["TC","SS"],
+            "color": "azure",
             "station_id": "EGSS_APP"
           },
           {
             "label": ["LL AIR", "S"],
+            "color": "azure",
             "station_id": "EGLL_S_TWR"
           },
           {
             "label": ["HI", "AIR"],
+            "color": "azure",
             "station_id": "EGHI_AIR"
           },
           {
             "label": ["CLN", "N S12"],
+            "color": "azure",
             "station_id": "LON_EN_CTR"
           },
           {
             "label": ["CLN", "S S13"],
+            "color": "azure",
             "station_id": "LON_ES_CTR"
           },
           {
             "label": ["TC E","REDFA"],
+            "color": "azure",
             "station_id": "LTC_ER_CTR"
           },
           {
             "label": ["LC", "AIR"],
+            "color": "azure",
             "station_id": "EGLC_TWR"
           },
           {
             "label": ["KK", "AIR"],
+            "color": "azure",
             "station_id": "EGKK_TWR"
           },
           {
             "label": ["LF", "AIR"],
+            "color": "azure",
             "station_id": "EGLF_TWR"
           },
           {
-            "label": ""
+            "label": "",
+            "color": "azure"
           },
           {
-            "label": ""
+            "label": "",
+            "color": "azure"
           },
           {
-            "label": ""
+            "label": "",
+            "color": "azure"
           },
           {
             "label": ["MC", "AIR"],
+            "color": "azure",
             "station_id": "EGMC_TWR"
           },
           {
             "label": ["KR", "AIR"],
+            "color": "azure",
             "station_id": "EGKR_TWR"
           },
           {
-            "label": ""
+            "label": "",
+            "color": "azure"
           }
         ]
       }
     },
     {
       "label": ["3"],
+      "color": "azure",
       "page": {
         "rows": 6,
         "client_page": {
@@ -305,6 +367,7 @@
           ],
           "exclude": [],
           "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
+          "color": "azure",
           "frequencies": "HideAll",
           "grouping": "None"
         }
@@ -312,55 +375,68 @@
      },
     {
         "label":["4"],
+        "color": "azure",
       "page": {
         "rows": 6,
         "keys": [
           {
             "label": ["UK", "FMP"],
+            "color": "azure",
             "station_id": "UK_FMP"
           },
           {
             "label": ["LTC", "FMP"],
+            "color": "azure",
             "station_id": "LTC_FMP"
           },
           {
             "label": ["UK", "FMP", "2"],
+            "color": "azure",
             "station_id": "UK_A_FMP"
           },
           {
             "label": ["UK", "FMP", "3"],
+            "color": "azure",
             "station_id": "UK_B_FMP"
           },
           {
             "label": ["LAC", "GS"],
+            "color": "azure",
             "station_id": "LON_GS_CTR"
           },
           {
             "label": ["LTC", "GS"],
+            "color": "azure",
             "station_id": "LTC_GS_CTR"
           },
           {
             "label": ["MAN", "GS"],
+            "color": "azure",
             "station_id": "MAN_GS_CTR"
           },
           {
             "label": ["MAN", "FMP"],
+            "color": "azure",
             "station_id": "MAN_FMP"
           },
           {
             "label": ["SCL", "FMP"],
+            "color": "azure",
             "station_id": "SCL_FMP"
           },
           {
             "label": ["ScAC", "GS"],
+            "color": "azure",
             "station_id": "SCO_GS_CTR"
           },
           {
             "label": ["SCL", "GS"],
+            "color": "azure",
             "station_id": "SCL_GS_CTR"
           },
           {
-            "label": ""
+            "label": "",
+            "color": "azure"
           }
         ]
       }
