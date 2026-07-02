@@ -53,9 +53,9 @@
             "color": "azure"
           },
           {
-            "label": ["MIL"],
+            "label": ["SCOT","FISO"],
             "color": "azure",
-            "station_id": "EGVV_N_CTR"
+            "station_id": "EGPX_I_CTR"
           },
           {
             "label": ["ScL","TAY"],
@@ -68,6 +68,24 @@
             "color": "azure"
           },
           {
+            "label": [],
+            "color": "azure"
+          },
+          {
+            "label": ["MIL"],
+            "color": "azure",
+            "station_id": "EGVV_N_CTR"
+          },
+          {
+            "label": ["EISN","UPPER","245-355"],
+            "color": "azure",
+            "station_id": "EISN_E_CTR"
+          },
+          {
+            "label": [],
+            "color": "azure"
+          },
+          {
             "label": ["BIRD","HI","F355+"],
             "color": "azure"
           },
@@ -77,14 +95,14 @@
             "station_id": "NAT_FSS"
           },
           {
-            "label": ["EISN","UPPER","245-355"],
-            "color": "azure",
-            "station_id": "EISN_E_CTR"
+            "label": ["EISN","SUPER","F355+"],
+            "station_id": "EISN_ES_CTR",
+            "color": "azure"
           },
           {
-            "label": ["FIS"],
-            "color": "azure",
-            "station_id": "EGPX_I_CTR"
+            "label": ["EIDW","F245-"],
+            "station_id": "EIDW_LN_CTR",
+            "color": "azure"
           },
           {
             "label": ["BIRD","LO","F355-"],
