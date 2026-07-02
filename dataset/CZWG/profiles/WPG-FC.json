@@ -1,5 +1,5 @@
 {
-  "id": "CYQR-TMU",
+  "id": "WPG-FC",
   "type": "Geo",
   "direction": "row",
   "padding": 0.77,
@@ -50,22 +50,47 @@
           "gap": 0.3,
           "children": [
             {
-              "label": ["WPG", "CTR", "124.000"],
-              "size": 8,
-              "color": "steel",
-              "station_id": "WPG-CTR"
-            },
-            {
-              "label": ["CYXE", "TMU", "119.900"],
-              "size": 8,
-              "color": "steel",
-              "station_id": "CYXE-TMU"
-            },
-            {
-              "label": ["CYWG", "APP", "119.500"],
+              "label": ["CYWG-APP", "119.500"],
               "size": 8,
               "color": "steel",
               "station_id": "CYWG-APP"
+            },
+            {
+              "label": ["CYWG-WEST", "121.000"],
+              "size": 8,
+              "color": "steel",
+              "station_id": "CYWG-WEST"
+            },
+            {
+              "label": ["CYWG-EAST", "119.900"],
+              "size": 8,
+              "color": "steel",
+              "station_id": "CYWG-EAST"
+            },
+            {
+              "label": ["YWG", "LOCAL", "..."],
+              "size": 8,
+              "color": "blush",
+              "page": {
+                "rows": 2,
+                "keys": [
+                  {
+                    "label": ["YWG-TWR"],
+                    "color": "mint",
+                    "station_id": "CYWG-TWR"
+                  },
+                  {
+                    "label": ["CYWG-GND"],
+                    "color": "lagoon",
+                    "station_id": "CYWG-GND"
+                  },
+                  {
+                    "label": ["CYWG-DEL"],
+                    "color": "lagoon",
+                    "station_id": "CYWG-DEL"
+                  }
+                ]
+              }
             }
           ]
         },
@@ -74,21 +99,42 @@
           "gap": 0.3,
           "children": [
             {
-              "label": ["TOWER", "118.600"],
+              "label": ["CYXE-TMU", "119.900"],
               "size": 8,
               "color": "steel",
-              "station_id": "CYQR-TWR"
+              "station_id": "CYXE-TMU"
             },
             {
-              "label": ["GROUND", "121.900"],
+              "label": ["CYQR-TMU", "120.100"],
               "size": 8,
               "color": "steel",
-              "station_id": "CYQR-GND"
+              "station_id": "CYQR-TMU"
             },
             {
-              "label": ["CL/DEL", "NOT AVAIL"],
+              "label": ["CYQT-TMU", "119.200"],
               "size": 8,
-              "color": "steel"
+              "color": "steel",
+              "station_id": "CYQT-TMU"
+            },
+            {
+              "label": ["YXE", "LOCAL", "..."],
+              "size": 8,
+              "color": "blush",
+              "page": {
+                "rows": 2,
+                "keys": [
+                  {
+                    "label": ["CYXE-TWR"],
+                    "color": "mint",
+                    "station_id": "CYXE-TWR"
+                  },
+                  {
+                    "label": ["CYXE-GND"],
+                    "color": "lagoon",
+                    "station_id": "CYXE-GND"
+                  }
+                ]
+              }
             }
           ]
         },
@@ -99,22 +145,21 @@
           "justify_content": "space-evenly",
           "children": [
             {
-              "label": ["CYXE", "TOWER", "118.300"],
+              "label": ["CYMJ-TMU", "119.000"],
               "size": 8,
               "color": "lavender",
-              "station_id": "CYXE-TWR"
+              "station_id": "CYMJ-TMU"
             },
             {
-              "label": ["CYMJ", "TOWER", "126.200"],
+              "label": ["WINNIPEG", "CENTRE", "124.000"],
               "size": 8,
               "color": "lavender",
-              "station_id": "CYMJ-TWR"
+              "station_id": "WPG-CTR"
             },
             {
-              "label": ["WINNIPEG", "FLOW", "CONTROL"],
+              "label": ["TORONTO", "FLOW CT", "INOP"],
               "size": 8,
-              "color": "cadet",
-              "station_id": "WPG-FMP"
+              "color": "lavender"
             }
           ]
         }
@@ -127,7 +172,7 @@
       "direction": "col",
       "height": "100%",
       "gap": 1.1,
-      "justify_content": "space-evenly",
+      "justify_content": "start",
       "children": [
         {
           "label": ["YMJ", "LOCAL", "..."],
@@ -156,6 +201,27 @@
         },
         { "orientation": "horizontal", "thickness": 5, "color": "#4a5568" },
         {
+          "label": ["YPG", "LOCAL", "..."],
+          "size": 6,
+          "color": "blush",
+          "page": {
+            "rows": 1,
+            "keys": [
+              {
+                "label": ["YPG-TWR"],
+                "color": "mint",
+                "station_id": "CYPG-TWR"
+              },
+              {
+                "label": ["YPG-GND"],
+                "color": "lagoon",
+                "station_id": "CYPG-GND"
+              }
+            ]
+          }
+        },
+        { "orientation": "horizontal", "thickness": 5, "color": "#4a5568" },
+        {
           "label": ["YQT", "LOCAL", "..."],
           "size": 6,
           "color": "blush",
@@ -177,21 +243,21 @@
         },
         { "orientation": "horizontal", "thickness": 5, "color": "#4a5568" },
         {
-          "label": ["YXE", "LOCAL", "..."],
+          "label": ["YQR", "LOCAL", "..."],
           "size": 6,
           "color": "blush",
           "page": {
             "rows": 1,
             "keys": [
               {
-                "label": ["CYXE-TWR"],
+                "label": ["CYQR-TWR"],
                 "color": "mint",
-                "station_id": "CYXE-TWR"
+                "station_id": "CYQR-TWR"
               },
               {
                 "label": ["CYQR-GND"],
                 "color": "lagoon",
-                "station_id": "CYXE-GND"
+                "station_id": "CYQR-GND"
               }
             ]
           }
