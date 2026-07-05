@@ -1,0 +1,111 @@
+{
+  "id": "PCEast",
+  "type": "Tabbed",
+  "tabs": [
+    {
+        "label":["1"],
+        "page": {
+            "rows": 4,
+            "keys":[      
+          {
+            "label": [""],
+            "color": "azure"
+          },
+          {
+            "label": [""],
+            "color": "azure"
+          }
+        ]
+      }    
+    },
+    {
+        "label":["2"],
+        "page": {
+            "rows": 4,
+            "keys":[      
+          {
+            "label": [""],
+            "color": "azure"
+          },
+          {
+            "label": [""],
+            "color": "azure"
+          }
+        ]
+      }    
+    },
+    {
+      "label": "3",
+      "page": {
+        "rows": 10,
+        "client_page": {
+          "include": [
+            "SOLENT*",
+            "THAMES*",
+            "ESSEX*",
+            "NAT_*",
+            "LON_*",
+            "LTC_*",
+            "SCO_*",
+            "SCL_*",
+            "MAN_*",
+            "EG*_*",
+            "UK_*"
+          ],
+          "exclude": [],
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
+          "frequencies": "HideAll",
+          "grouping": "None"
+        }
+      }
+    },
+    {
+      "label": ["4"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["ScAC", "GS"],
+            "station_id": "SCO_GS_CTR",
+            "color": "azure"
+          },
+          {
+            "label": ["MAN", "GS"],
+            "station_id": "MAN_GS_CTR",
+            "color": "azure"
+          },
+          {
+            "label": ["UK", "FMP","2"],
+            "station_id": "UK_B_FMP",
+            "color": "azure"
+          },
+          {
+            "label": ["SCL", "FMP"],
+            "station_id": "SCL_FMP",
+            "color": "azure"
+          },
+          {
+            "label": ["SCL", "GS"],
+            "station_id": "SCL_GS_CTR",
+            "color": "azure"
+          },
+          {
+            "label": ["UK", "FMP"],
+            "station_id": "UK_FMP",
+            "color": "azure"
+          },
+          {
+            "label": ["UK", "FMP", "3"],
+            "station_id": "UK_B_FMP",
+            "color": "azure"
+          },
+          {
+            "label": ["MAN", "FMP"],
+            "station_id": "MAN_FMP",
+            "color": "azure"
+          }
+        ]
+      }
+    }
+  ]
+}
