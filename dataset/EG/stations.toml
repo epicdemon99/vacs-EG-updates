@@ -970,6 +970,8 @@ id = "EGBB_F_APP"
 parent_id = "EGBB_APP"
 controlled_by = ["EGBB_F_APP"]
 
+
+
 [[stations]]
 id = "EGCC_DEL"
 parent_id = "EGCC_GND"
@@ -1015,6 +1017,8 @@ id = "EGCC_F_APP"
 parent_id = "EGCC_S_APP"
 controlled_by = ["EGCC_F_APP"]
 
+
+
 [[stations]]
 id = "EGGP_APP"
 parent_id = "MAN_WL_CTR"
@@ -1024,6 +1028,8 @@ controlled_by = ["EGGP_APP", "EGGP_F_APP"]
 id = "EGGP_F_APP"
 parent_id = "EGGP_APP"
 controlled_by = ["EGGP_F_APP"]
+
+
 
 [[stations]]
 id = "EGGW_DEL"
@@ -1049,6 +1055,8 @@ controlled_by = ["EGGW_APP", "EGGW_F_APP", "ESSEX_APP"]
 id = "EGGW_F_APP"
 parent_id = "EGGW_APP"
 controlled_by = ["EGGW_F_APP"]
+
+
 
 [[stations]]
 id = "EGKK_DEL"
@@ -1090,10 +1098,14 @@ id = "EGKK_F_APP"
 parent_id = "EGKK_APP"
 controlled_by = ["EGKK_F_APP"]
 
+
+
 [[stations]]
 id = "EGKR_TWR"
 parent_id = "EGKK_F_APP"
 controlled_by = ["EGKR_TWR"]
+
+
 
 [[stations]]
 id = "EGLC_GND"
@@ -1110,9 +1122,13 @@ id = "EGLC_APP"
 parent_id = "THAMES_APP"
 controlled_by = ["EGLC_APP"]
 
+
+
 [[stations]]
 id = "EGLD_I_TWR"
 controlled_by = ["EGLD_I_TWR"]
+
+
 
 [[stations]]
 id = "EGLF_APP"
@@ -1128,6 +1144,8 @@ controlled_by = ["EGLF_F_APP"]
 id = "EGLF_L_APP"
 parent_id = "EGLF_APP"
 controlled_by = ["EGLF_L_APP"]
+
+
 
 [[stations]]
 id = "EGLL_DEL"
@@ -1184,19 +1202,27 @@ id = "EGLL_F_APP"
 parent_id = "EGLL_N_APP"
 controlled_by = ["EGLL_F_APP"]
 
+
+
 [[stations]]
 id = "EGLM_R_TWR"
 controlled_by = ["EGLM_R_TWR"]
+
+
 
 [[stations]]
 id = "EGLW_TWR"
 parent_id = "EGLL-CTR-TC_SVFR"
 controlled_by = ["EGLW_TWR"]
 
+
+
 [[stations]]
 id = "EGNH_A_APP"
 parent_id = "MAN_WI_CTR"
 controlled_by = ["EGNH_A_APP"]
+
+
 
 [[stations]]
 id = "EGNM_APP"
@@ -1208,6 +1234,8 @@ id = "EGNM_F_APP"
 parent_id = "EGNM_APP"
 controlled_by = ["EGNM_F_APP"]
 
+
+
 [[stations]]
 id = "EGNO_APP"
 parent_id = "EGVV_C_CTR"
@@ -1218,6 +1246,8 @@ id = "EGNO_P_APP"
 parent_id = "EGNO_APP"
 controlled_by = ["EGNO_P_APP"]
 
+
+
 [[stations]]
 id = "EGNR_APP"
 parent_id = "EGGP_APP"
@@ -1227,6 +1257,8 @@ controlled_by = ["EGNR_APP", "EGNR_F_APP"]
 id = "EGNR_F_APP"
 parent_id = "EGNR_APP"
 controlled_by = ["EGNR_F_APP"]
+
+
 
 [[stations]]
 id = "EGNS_TWR"
@@ -1248,6 +1280,8 @@ id = "EGNS_A_APP"
 parent_id = "MAN_WI_CTR"
 controlled_by = ["EGNS_A_APP"]
 
+
+
 [[stations]]
 id = "EGNT_GND"
 parent_id = "EGNT_TWR"
@@ -1268,6 +1302,8 @@ id = "EGNT_F_APP"
 parent_id = "EGNT_APP"
 controlled_by = ["EGNT_F_APP"]
 
+
+
 [[stations]]
 id = "EGNV_TWR"
 parent_id = "EGNV_APP"
@@ -1283,6 +1319,8 @@ id = "EGNV_F_APP"
 parent_id = "EGNV_APP"
 controlled_by = ["EGNV_F_APP"]
 
+
+
 [[stations]]
 id = "EGNX_APP"
 parent_id = "LTC_MW_CTR"
@@ -1293,10 +1331,14 @@ id = "EGNX_F_APP"
 parent_id = "EGNX_APP"
 controlled_by = ["EGNX_F_APP"]
 
+
+
 [[stations]]
 id = "EGOV_APP"
 parent_id = "EGVV_W_CTR"
 controlled_by = ["EGOV_APP", "EGOV_P_APP"]
+
+
 
 [[stations]]
 id = "EGPA_A_APP"
@@ -1308,6 +1350,8 @@ id = "EGPA_TWR"
 parent_id = "EGPA_A_APP"
 controlled_by = ["EGPA_TWR"]
 
+
+
 [[stations]]
 id = "EGPB_TWR"
 parent_id = "EGPB_APP"
@@ -1318,6 +1362,8 @@ id = "EGPB_APP"
 parent_id = "EG-Moray-Low"
 controlled_by = ["EGPB_APP"]
 
+
+
 [[stations]]
 id = "EGPC_A_APP"
 parent_id = "EG-Moray-Low"
@@ -1327,6 +1373,8 @@ controlled_by = ["EGPC_A_APP"]
 id = "EGPC_TWR"
 parent_id = "EGPC_A_APP"
 controlled_by = ["EGPC_TWR"]
+
+
 
 [[stations]]
 id = "EGPD_GND"
@@ -1353,6 +1401,8 @@ id = "EGPD_H_APP"
 parent_id = "EGPD_APP"
 controlled_by = ["EGPD_H_APP"]
 
+
+
 [[stations]]
 id = "EGPE_APP"
 parent_id = "EG-Moray-Low"
@@ -1362,6 +1412,8 @@ controlled_by = ["EGPE_APP"]
 id = "EGPE_TWR"
 parent_id = "EGPE_APP"
 controlled_by = ["EGPE_TWR"]
+
+
 
 [[stations]]
 id = "EGPF_GND"
@@ -1382,6 +1434,8 @@ controlled_by = ["EGPF_APP", "EGPF_F_APP"]
 id = "EGPF_F_APP"
 parent_id = "EGPF_APP"
 controlled_by = ["EGPF_F_APP"]
+
+
 
 [[stations]]
 id = "EGPH_DEL"
@@ -1408,6 +1462,8 @@ id = "EGPH_F_APP"
 parent_id = "EGPH_APP"
 controlled_by = ["EGPH_F_APP"]
 
+
+
 [[stations]]
 id = "EGPK_TWR"
 parent_id = "EGPK_APP"
@@ -1423,6 +1479,8 @@ id = "EGPK_F_APP"
 parent_id = "EGPK_APP"
 controlled_by = ["EGPK_F_APP"]
 
+
+
 [[stations]]
 id = "EGPL_A_APP"
 parent_id = "EG-Westcoast-Central"
@@ -1432,6 +1490,8 @@ controlled_by = ["EGPL_A_APP"]
 id = "EGPL_TWR"
 parent_id = "EGPL_A_APP"
 controlled_by = ["EGPL_TWR"]
+
+
 
 [[stations]]
 id = "EGPN_A_APP"
@@ -1443,6 +1503,8 @@ id = "EGPN_TWR"
 parent_id = "EGPN_A_APP"
 controlled_by = ["EGPN_TWR"]
 
+
+
 [[stations]]
 id = "EGPO_A_APP"
 parent_id = "EG-Hebrides-Low"
@@ -1452,6 +1514,8 @@ controlled_by = ["EGPO_A_APP"]
 id = "EGPO_TWR"
 parent_id = "EGPO_A_APP"
 controlled_by = ["EGPO_TWR"]
+
+
 
 [[stations]]
 id = "EGQL_APP"
@@ -1473,6 +1537,8 @@ id = "EGQL_GND"
 parent_id = "EGQL_TWR"
 controlled_by = ["EGQL_GND"]
 
+
+
 [[stations]]
 id = "EGQS_APP"
 parent_id = "EGVV_Q_CTR"
@@ -1488,6 +1554,8 @@ id = "EGQS_TWR"
 parent_id = "EGQS_APP"
 controlled_by = ["EGQS_TWR"]
 
+
+
 [[stations]]
 id = "EGSC_TWR"
 parent_id = "EGSC_APP"
@@ -1502,6 +1570,8 @@ controlled_by = ["EGSC_APP"]
 id = "EGSC_A_APP"
 parent_id = "EGSS_APP"
 controlled_by = ["EGSC_A_APP"]
+
+
 
 [[stations]]
 id = "EGSS_DEL"
@@ -1528,13 +1598,19 @@ id = "EGSS_F_APP"
 parent_id = "EGSS_APP"
 controlled_by = ["EGSS_F_APP"]
 
+
+
 [[stations]]
 id = "EGSU_I_TWR"
 controlled_by = ["EGSU_I_TWR"]
 
+
+
 [[stations]]
 id = "EGTF_R_TWR"
 controlled_by = ["EGTF_R_TWR"]
+
+
 
 [[stations]]
 id = "EGUL_APP"
@@ -1545,6 +1621,8 @@ controlled_by = ["EGUL_APP", "EGUL_P_APP"]
 id = "EGUL_P_APP"
 parent_id = "EGUL_APP"
 controlled_by = ["EGUL_P_APP"]
+
+
 
 [[stations]]
 id = "EGWU_GND"
@@ -1571,6 +1649,8 @@ id = "EGWU_P_APP"
 parent_id = "EGWU_F_APP"
 controlled_by = ["EGWU_P_APP"]
 
+
+
 [[stations]]
 id = "EGYP_APP"
 parent_id = "ISLAND_CTR"
@@ -1591,6 +1671,8 @@ id = "EGYP_GND"
 parent_id = "EGYP_TWR"
 controlled_by = ["EGYP_GND"]
 
+
+
 [[stations]]
 id = "LXGB_APP"
 controlled_by = ["LXGB_APP", "LXGB_P_APP"]
@@ -1605,23 +1687,33 @@ id = "LXGB_TWR"
 parent_id = "LXGB_APP"
 controlled_by = ["LXGB_TWR"]
 
+
+
 [[stations]]
 id = "ESSEX_APP"
 controlled_by = ["ESSEX_APP"]
 
+
+
 [[stations]]
 id = "ISLAND_CTR"
 controlled_by = ["ISLAND_CTR"]
+
+
 
 [[stations]]
 id = "SOLENT_APP"
 parent_id = "LON_HW_CTR"
 controlled_by = ["SOLENT_APP"]
 
+
+
 [[stations]]
 id = "THAMES_APP"
 parent_id = "LTC_SE_CTR"
 controlled_by = ["THAMES_APP"]
+
+
 
 # Position inserted for correct top-down TC SFVR *within* the London CTR (not within the London City CTR/CTA)
 [[stations]]
@@ -1639,6 +1731,8 @@ controlled_by = [
   "LON_SC_CTR",
   "LON_CTR",
 ]
+
+
 
 [[stations]]
 id = "SFAL_I_TWR"
