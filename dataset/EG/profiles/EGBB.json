@@ -107,26 +107,6 @@
           {
             "label": ["NX","RAD"],
             "station_id": "EGNX_APP"
-          },          
-          {
-            "label": [""],
-            "station_id": ""
-          },
-          {
-            "label": [""],
-            "station_id": ""
-          },
-
-          {
-            "label": []
-          },
-          {
-            "label": [""],
-            "station_id": ""
-          },
-          {
-            "label": [""],
-            "station_id": ""
           }
         ]
       }
