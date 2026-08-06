@@ -145,8 +145,8 @@
             "station_id": "UK_B_FMP"
           },
           {
-            "label": ["LTC", "FMP"],
-            "station_id": "LTC_FMP"
+            "label": ["SCL", "FMP"],
+            "station_id": "SCL_FMP"
           },
           {
             "label": ["MAN", "GS"],
@@ -158,7 +158,7 @@
           },
           {
             "label": ["SCO", "GS"],
-            "station_id": "SCO_GS_CTR"
+            "station_id": "LON_GS_CTR"
           },
           {
             "label": ["SCO", "FMP"],
