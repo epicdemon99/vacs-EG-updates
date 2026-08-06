@@ -39,6 +39,10 @@ id = "SCO_GS_CTR"
 controlled_by = ["SCO_GS_CTR"]
 
 [[stations]]
+id = "SCO_FMP"
+controlled_by = ["SCO_FMP"]
+
+[[stations]]
 id = "SCL_GS_CTR"
 controlled_by = ["SCL_GS_CTR"]
 
