@@ -160,8 +160,7 @@
             "station_id": "LON_GS_CTR"
           },
           {
-            "label": ["SCO", "FMP"],
-            "station_id": "SCO_FMP"
+            "label": []
           }
         ]
       }

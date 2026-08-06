@@ -3236,13 +3236,6 @@ facility_type = "CTR"
 profile_id = "EG-FMP"
 
 [[positions]]
-id = "SCO_FMP"
-prefixes = ["SCO"]
-frequency = "199.998"
-facility_type = "CTR"
-profile_id = "EG-FMP"
-
-[[positions]]
 id = "SCL_GS_CTR"
 prefixes = ["SCL"]
 frequency = "199.998"
