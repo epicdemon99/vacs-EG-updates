@@ -112,6 +112,12 @@
           {
             "label": ["PC","SE"],
             "station_id": "MAN_SE_CTR"
+            "label": ["NM", "RAD"],
+            "station_id": "EGNM_APP"
+          },
+          {
+            "label": ["EGCB"],
+            "station_id": "EGCB_I_TWR"
           },
           {
             "label": ["NX", "RAD"],
@@ -156,7 +162,7 @@
             "station_id": "MAN_FMP"
           },
           {
-            "label": ["SCO", "GS"],
+            "label": ["LON", "GS"],
             "station_id": "LON_GS_CTR"
           },
           {
